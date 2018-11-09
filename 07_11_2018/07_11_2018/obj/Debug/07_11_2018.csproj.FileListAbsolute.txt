@@ -1,0 +1,10 @@
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\bin\Debug\07_11_2018.exe.config
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\bin\Debug\07_11_2018.exe
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\bin\Debug\07_11_2018.pdb
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\obj\Debug\07_11_2018.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\obj\Debug\_07_11_2018.Form1.resources
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\obj\Debug\_07_11_2018.Properties.Resources.resources
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\obj\Debug\07_11_2018.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\obj\Debug\07_11_2018.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\obj\Debug\07_11_2018.exe
+C:\Users\Yasin\Desktop\BackEnd\C# Codes\07_11_2018\07_11_2018\obj\Debug\07_11_2018.pdb
